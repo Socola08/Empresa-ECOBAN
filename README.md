@@ -1,2 +1,3 @@
 # Empresa-ECOBAN
-Una breve descripción sobre la empresa ECOBAN SCRL
+Una breve descripción sobre el GRUPO ECOBAN SCRL
+Lugar en donde realizo mis prácticas
